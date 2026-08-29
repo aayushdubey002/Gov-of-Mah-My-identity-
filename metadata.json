@@ -1,0 +1,7 @@
+{
+  "name": "Majhi Olakh - Citizen Services Portal",
+  "description": "Unified citizen services portal providing access to 1200+ government services across 25+ departments in Maharashtra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
